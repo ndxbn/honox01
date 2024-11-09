@@ -11,6 +11,6 @@
     "honox": "^0.1.26"
   },
   "devDependencies": {
-    "vite": "^5.2.12"
+    "vite": "5.4.10"
   }
 }
